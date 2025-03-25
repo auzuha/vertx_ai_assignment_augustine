@@ -1,0 +1,24 @@
+[
+    {
+      "investor_id": 101,
+      "name": "John Doe Ventures",
+      "preferred_industry": ["FinTech", "AI/ML"],
+      "investment_range": [100000, 1000000],
+      "preferred_stage": ["Seed", "Series A"]
+    },
+    {
+      "investor_id": 102,
+      "name": "Future Health Capital",
+      "preferred_industry": ["HealthTech"],
+      "investment_range": [500000, 5000000],
+      "preferred_stage": ["Series A", "Series B"]
+    },
+    {
+      "investor_id": 103,
+      "name": "AI First Fund",
+      "preferred_industry": ["AI/ML"],
+      "investment_range": [250000, 2000000],
+      "preferred_stage": ["Pre-Seed", "Seed"]
+    }
+  ]
+  

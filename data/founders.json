@@ -1,0 +1,30 @@
+[
+    {
+      "founder_id": 1,
+      "name": "Alice Johnson",
+      "industry": "FinTech",
+      "startup_stage": "Seed",
+      "funding_required": 500000,
+      "traction": "10,000 users, $50K revenue",
+      "business_model": "Subscription-based"
+    },
+    {
+      "founder_id": 2,
+      "name": "Bob Smith",
+      "industry": "HealthTech",
+      "startup_stage": "Series A",
+      "funding_required": 2000000,
+      "traction": "100,000 users, $1M revenue",
+      "business_model": "Marketplace"
+    },
+    {
+      "founder_id": 3,
+      "name": "Charlie Patel",
+      "industry": "AI/ML",
+      "startup_stage": "Pre-Seed",
+      "funding_required": 300000,
+      "traction": "Prototype Ready",
+      "business_model": "B2B SaaS"
+    }
+  ]
+  
